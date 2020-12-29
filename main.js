@@ -1,5 +1,5 @@
 // function([string1, string2],target id,[color1,color2])    
-consoleText(['Hello World.', 'Console Text', 'Made with Love.'], 'text',['tomato','rebeccapurple']);
+consoleText(['Bom dia', 'Depois de muito tempo', 'Pensei...', 'Vamo fechar?'], 'text',['tomato','rebeccapurple']);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
