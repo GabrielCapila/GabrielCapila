@@ -11,7 +11,7 @@ body{
     height: 100vh;
 }
 #main{
-    background-color: #201c24;
+    /* background-color: #201c24; */
     width: 100vw;
     height: 100vh;
     justify-content: center;
@@ -25,6 +25,9 @@ body{
 #divText{
 height: 50px;
 margin-bottom: 100px;
+}
+#list{
+    margin-bottom: 50px;
 }
 ul{
     position: relative;
